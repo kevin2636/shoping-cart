@@ -16,7 +16,7 @@ const data = {
         },
         {
             id: 3,
-            img: "https://imgs.search.brave.com/d0tSiFXLMktBkiavF-Pgw-hGf3Gg_oCygEVBf-oM8v0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vNUlKa2Jv/LXhtcmp4anVkV01f/c00xSHd3bjJTYURq/UzRvQVVtRWdZZTZE/VS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTkz/ZDNjdS9jR1Z1YUdW/aGRtVnVMbU52L0xu/VnJMMjFsWkdsaEwy/TmgvZEdGc2IyY3Zj/SEp2WkhWai9kQzlq/TDNJdlkzSnZjM010/L1kyeHBZMnN0YldG/MGRHVXQvWW14aFky/c3RZbUZzYkhCdi9h/VzUwTFhCbGJpNXFj/R2NfL2NYVmhiR2ww/ZVQwNE1DWmkvWnkx/amIyeHZjajB5TlRV/cy9NalUxTERJMU5T/Wm1hWFE5L1ltOTFi/bVJ6Sm1obGFXZG8v/ZEQwME1EUW1kMmxr/ZEdnOS9Nekl3Sm1O/aGJuWmhjejB6L01q/QTZOREEw",
+            img: "https://imgs.search.brave.com/R6keF6SZDd_ja6z86S_anFKSr5GiAhg0fVMnJQb-Evs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20veUR1OEdv/ckRkbzdYdGRlaEhG/NEFZbkRrZ2k3Q0Ft/Rm1lZk1JV01MQVdY/dy9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTkx/Y0d4di9ZV1F1ZDJs/cmFXMWxaR2xoL0xt/OXlaeTkzYVd0cGNH/VmsvYVdFdlkyOXRi/Vzl1Y3k5aC9MMkZp/TDB4aGJYbGZNakF3/L01GOW1iM1Z1ZEdG/cGJsOXcvWlc0c1gw/VkdYM05sYldsZi9h/Rzl2WkdWa1gyNXBZ/aTVxL2NHYw",
             title: "Pen",
             desc: "Simply better than a pencil,undefeated by eraser",
             price: "3",
@@ -26,4 +26,3 @@ const data = {
 }
 
 export default data;
-
